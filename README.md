@@ -36,4 +36,4 @@ TBD
 
 ## Mailing list
 
-TBD
+Subscribe to our [mailing list](https://lists.ukp.informatik.tu-darmstadt.de/wws/subscribe/semeval24-legal-reasoning).
