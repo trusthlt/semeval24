@@ -1,4 +1,4 @@
-# SemEval 2024: The Legal Argument Reasoning Task in Civil Procedure
+# SemEval 2024 Task 5: The Legal Argument Reasoning Task in Civil Procedure
 
 We present a new NLP task and dataset from the domain of the U.S. civil procedure. Each instance of the dataset consists of a general introduction to the case, a particular question, and a possible solution argument, accompanied by a detailed analysis of why the argument applies in that case. Since the dataset is based on a book aimed at law students, we believe that it represents a truly complex task for benchmarking modern legal language models.
 
