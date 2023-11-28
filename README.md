@@ -58,7 +58,7 @@ We adhere to the schedule for SemEval24, which means the following dates:
 ## Competition Rules
 - you need to be registered and approved to enter a submission in the CodaLab competition
 - you can form teams and work on the task together
-- external/additional data is **allowed**, however your model should be able to handle only question and answer candidate as input
+- external/additional data is **allowed**, however your model should be able to handle only introduction, question and answer candidate as input
 - be fair and do not cheat, buying the book and copying the answers is not a valid solution ❌
 - to test your submissions, you can upload a solution for the dev set in Phase 1, the maximum number of submissions is 999
 - during Phase 2 (Evaluation), you have a maximum of ***5*** submissions and the ***last submission will be counted in the competition***
