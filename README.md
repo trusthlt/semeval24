@@ -1,8 +1,10 @@
 # SemEval 2024 Task 5: The Legal Argument Reasoning Task in Civil Procedure
+> ### 2024-01-29: ❗ The end of the evaluation phase is approaching. We have extended the deadline by 1 day to 2024-02-01 00:00:00 UTC. You can check the server time on the codalab competition page!
 >
+
 > ### 2024-01-09: The test partition has been sent out! If you have not received it, please contact [lena.held@tu-darmstadt.de](mailto:lena.held@tu-darmstadt.de).
 >
->
+
 > ### 2023-11-28: Thank you for you patience, the CodaLab competition is now [open](https://codalab.lisn.upsaclay.fr/competitions/14817)! Make sure to check the participation rules [below](#competition-rules) 🎉
 >
 
