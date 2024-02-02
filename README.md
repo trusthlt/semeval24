@@ -112,7 +112,7 @@ Subscribe to our [mailing list](https://lists.ukp.informatik.tu-darmstadt.de/wws
             <td>kbkrumov</td>
             <td>7</td>
             <td>31.1.2024</td>
-            <td>Pravda</td>
+            <td>SU-FMI</td>
             <td>0.7728</td>
             <td>0.8367</td>
         </tr>
@@ -319,7 +319,7 @@ Subscribe to our [mailing list](https://lists.ukp.informatik.tu-darmstadt.de/wws
             <td>kbkrumov</td>
             <td>7</td>
             <td>31.1.2024</td>
-            <td>Pravda</td>
+            <td>SU-FMI</td>
             <td>0.7728</td>
             <td>0.8367</td>
         </tr>
