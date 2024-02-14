@@ -184,7 +184,7 @@ Subscribe to our [mailing list](https://lists.ukp.informatik.tu-darmstadt.de/wws
             <td>msiino</td>
             <td>1</td>
             <td>31.1.2024</td>
-            <td></td>
+            <td>Mistral</td>
             <td>0.5597</td>
             <td>0.5714</td>
         </tr>
@@ -400,7 +400,7 @@ Subscribe to our [mailing list](https://lists.ukp.informatik.tu-darmstadt.de/wws
             <td>msiino</td>
             <td>1</td>
             <td>31.1.2024</td>
-            <td></td>
+            <td>Mistral</td>
             <td>0.5597</td>
             <td>0.5714</td>
         </tr>
