@@ -103,7 +103,7 @@ Subscribe to our [mailing list](https://lists.ukp.informatik.tu-darmstadt.de/wws
             <td>irene.benedetto</td>
             <td>7</td>
             <td>26.1.2024</td>
-            <td>PoliToHFI</td>
+            <td>MAINDZ</td>
             <td>0.7747</td>
             <td>0.8265</td>
         </tr>
@@ -310,7 +310,7 @@ Subscribe to our [mailing list](https://lists.ukp.informatik.tu-darmstadt.de/wws
             <td>irene.benedetto</td>
             <td>7</td>
             <td>26.1.2024</td>
-            <td>PoliToHFI</td>
+            <td>MAINDZ</td>
             <td>0.7747</td>
             <td>0.8265</td>
         </tr>
